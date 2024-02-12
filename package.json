@@ -1,14 +1,17 @@
 {
   "name": "elastic-copy-paste",
   "version": "1.0.0",
-  "description": "A simple and elastic ui component to copy paste ",
+  "description": "A simple and elastic UI component for copy-pasting",
   "main": "index.js",
   "scripts": {
     "build": "babel src -d lib",
     "test": "jest",
     "prepublishOnly": "npm run build"
   },
-  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baibars313/elastic-copy-paste.git"
+  },
   "keywords": [
     "react-elastic-copy-paste",
     "react-copy",
