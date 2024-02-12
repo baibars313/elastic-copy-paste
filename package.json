@@ -20,5 +20,8 @@
     "npm"
   ],
   "author": "baibars313",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.23.9"
+  }
 }
