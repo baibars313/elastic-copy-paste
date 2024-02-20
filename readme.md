@@ -1,4 +1,4 @@
-```md
+
 ---
 title: elastic-copy-paste
 ---
@@ -33,7 +33,7 @@ copyToClipboard(textToCopy)
   .catch((error) => {
     console.error('Error during copy:', error);
   });
-```
+
 
 ## API
 
