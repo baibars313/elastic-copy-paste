@@ -1,6 +1,6 @@
 {
   "name": "elastic-copy-paste",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and elastic UI component for copy-pasting",
   "main": "index.js",
   "scripts": {
@@ -14,10 +14,25 @@
   },
   "keywords": [
     "react-elastic-copy-paste",
-    "react-copy",
-    "copy-paste-npm",
-    "copy",
-    "npm"
+    "react-copy-paste",
+    "npm-package",
+    "copy-paste-library",
+    "react-component",
+    "clipboard-utils",
+    "react-hooks",
+    "front-end",
+    "web-development",
+    "reactjs",
+    "npm",
+    "javascript",
+    "ui-components",
+    "copying",
+    "pasting",
+    "react-ui",
+    "user-interface",
+    "code-snippets",
+    "react-hooks-library",
+    "npm-module"
   ],
   "author": "baibars313",
   "license": "MIT",
